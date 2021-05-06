@@ -1,4 +1,4 @@
-hello git! hello word!
+hello git! hello word! hot-fix
 hello git! hello word!
 hello git! hello word!
 hello git! hello word!
